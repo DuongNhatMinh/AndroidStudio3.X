@@ -2,3 +2,6 @@
 
 
 <li><a href="https://github.com/DuongNhatMinh/AndroidStudio">Quay Lại</a></li>
+
+<h2>Link bài viết tham khảo</h2>
+<li><a href="https://ngocminhtran.com/2018/07/11/dao-quanh-ung-dung-android-trong-android-studio-3-x/">Tại Đây</a></li>
